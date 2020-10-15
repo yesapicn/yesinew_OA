@@ -32,3 +32,5 @@
  各类资产分析和统计报表
 
 
+## 演示地址
+小智OA云： http://www.yesinew.com/
